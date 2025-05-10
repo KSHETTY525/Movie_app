@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">मूवी वॉचलिस्ट</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="change_language">भाषा बदलें</string>
+</resources>
