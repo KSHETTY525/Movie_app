@@ -1,6 +1,6 @@
 # Movie Watchlist
-Android Studio Application
-Movie Review Application is a user-friendly Android app that allows users to log in, explore a movie collection, write and manage reviews, and keep track of watched films — all stored locally using SQLite.
+
+Movie Watchlist Application is a user-friendly Android app that allows users to log in, explore a movie collection, write and manage reviews, and keep track of watched films — all stored locally using SQLite.
 
 Features
 User Authentication: Secure login to personalize the experience.
